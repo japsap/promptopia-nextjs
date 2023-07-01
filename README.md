@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Promptopia is a NextJs based web application to help people find the best prompt they can ask AI.
 
 All the things this project had utizlied 
- -NextJs
- -TailwindCss
- -NodeJs
+ - NextJs
+ - TailwindCss
+ - NodeJs
  
